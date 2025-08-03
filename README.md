@@ -23,6 +23,3 @@ This project classifies emails as **Spam** or **Not Spam** based on their textua
 - Scikit-learn
 - Pandas / NumPy
 - NLTK
-
-## 📂 Project Structure
-
